@@ -1,3 +1,5 @@
 # git-explore
 
-Git enables the collaborative editing of source code in a secure and distributed method.
+Git enables the collaborative editing of source code in a secure and distributed method
+
+Commit 3
